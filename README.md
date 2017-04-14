@@ -6,6 +6,7 @@ How can I check it quickly? To compare each one??
 
 ####*User write Five date parameters:E,A,C,B,D. But date sort rule is A < B < C < D < E 
 
+
 * Brute Force:
 
 ```php
