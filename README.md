@@ -1,11 +1,11 @@
-##MaHua是什么?
-##How to compare five date parameters quickly? 
+
+## How to compare five date parameters quickly(PHP)? 
 
 if the form send five date parameters to backend want to insert to database. 
 
 How can I check it quickly? To compare each one?? 
 
-####*User write Five date parameters:E,A,C,B,D. But date sort rule is A < B < C < D < E 
+#### User write Five date parameters:E,A,C,B,D. But date sort rule is A < B < C < D < E 
 
 
 * Brute Force:
